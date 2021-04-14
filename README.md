@@ -2,6 +2,8 @@
 
 This repository holds [picasso](https://github.com/eveld/picasso) templates that can be used to generate image assets.
 
+Picasso is a tool that can take a template and data, and generate images from them. The templates that Picasso uses are written in HCL (HashiCorp Configuration Language) and define the input, output and design of the resulting image.
+
 Some of these templates might require additional assets to be copied into this repository for them to work.
 Due to licenses for those assets, they are not included in this repository.
 
